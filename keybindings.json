@@ -1,0 +1,23 @@
+// 将键绑定放在此文件中以覆盖默认值
+[
+    {
+        "key": "F12",
+        "command": "workbench.action.togglePanel",
+        "when": ""
+    },
+    {
+        "key": "Ctrl+]",
+        "command": "editor.action.goToTypeDefinition",
+        "when": ""
+    },
+    {
+        "key": "Ctrl+T",
+        "command": "workbench.action.navigateBack",
+        "when": ""
+    },
+    {
+        "key": "Ctrl+F12",
+        "command": "workbench.action.toggleMaximizedPanel",
+        "when": ""
+    }
+]
